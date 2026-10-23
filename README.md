@@ -19,7 +19,7 @@ DLSS5-Unlocker is a universal manager and automated installer designed to bypass
 * **Preset Configuration:** Tweak internal DLSS presets (Quality, Balanced, Performance) and force Frame Generation directly through the UI.
 * **Auto-Updater:** Keeps your bypass and DLSS files up to date with the latest GitHub releases.
 
-## 💻 Supported Hardware
+## 💻 Supported Hardware 
 
 | GPU Manufacturer | Supported Series | Frame Generation |
 | :--- | :--- | :--- |
