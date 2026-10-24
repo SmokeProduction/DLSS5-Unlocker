@@ -2,7 +2,7 @@
 Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.
 # 🚀 DLSS5-Unlocker
 
-[![Release](https://img.shields.io/github/v/release/SmokeProduction/DLSS5-Unlocker?style=flat-square)](https://github.com/SmokeProduction/DLSS5-Unlocker/releases)
+[![Release](https://img.shields.io/github/v/release/SmokeProduction/DLSS5-Unlocker?style=flat-square)](https://github.com/SmokeProduction/DLSS5-Unlocker/releases/tag/1.4.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 > **Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.**
