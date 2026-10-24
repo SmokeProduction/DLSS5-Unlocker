@@ -5,6 +5,9 @@ Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-cl
 [![Release](https://img.shields.io/github/v/release/SmokeProduction/DLSS5-Unlocker?style=flat-square)](https://github.com/SmokeProduction/DLSS5-Unlocker/releases/tag/1.4.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
+<p align="center">
+  <img src="assets/screen.jpg" alt="DLSS5-Unlocker Dashboard" width="800">
+</p>
 > **Unlock and manage DLSS 5 on any NVIDIA or AMD graphics card. The ultimate one-click frame gen tool.**
 
 DLSS5-Unlocker is a universal manager and automated installer designed to bypass hardware restrictions and enable DLSS 5 (Deep Learning Super Sampling) and Frame Generation technologies on natively unsupported GPUs, including AMD Radeon and older NVIDIA GeForce series.
